@@ -1,4 +1,11 @@
 <?php
+
+/*
+    JNCK MEDIA (c) 2017
+    https://github.com/dandyraka/TelkBombV2
+    Made by Dandy Raka
+*/
+
 function telkbombv2($no, $jum, $wait = 0)
 {
     $x      = 1;
