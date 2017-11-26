@@ -7,14 +7,14 @@ Usage
 --
 - normally
 
-fill phone number & count of sms to run.php
+fill phone number & count of sms to tsel.php
 ```
 $execute = telkbombv2('YOUR_PHONE_NUMBER', 'COUNT_OF_SMS');
 ```
 
 - use delay
 
-fill phone number, count of sms, delay (in seconds) to run.php
+fill phone number, count of sms, delay (in seconds) to tsel.php
 ```
 $execute = telkbombv2('YOUR_PHONE_NUMBER', 'COUNT_OF_SMS', 'DELAY');
 ```
